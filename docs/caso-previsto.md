@@ -15,7 +15,11 @@ Atualmente, a empresa utiliza planilhas Microsoft Excel (Excel) para acompanhar 
 
 Tendo em vista esses desafios, os alunos Lucas Santos Rosa e Matheus Fontes Almeida Moreira Silva propõem, como Trabalho de Conclusão de Curso, o desenvolvimento de um SistemaIntegrado de Gestão de Vendas e Logística, esse sistema deve conter suporte para versões WEB compativas com computadores e dispositivos móveis. Esse projeto se enquadra no item 3.2.1 da Resolução de Trabalho de Conclusão de Curso (TCC) 1 do segundo semestre de 2024, que define "Projetos de desenvolvimento podem ter um cliente específico, externo à universidade". Dessa forma, o projeto a ser desenvolvido se encaixa como tema para o Trabalho de Conclusão de Curso de Engenharia de Software por tratar dos seguintes aspectos da área citada.
 
+* ALTERAR METODOLOGIA POIS NÃO SE ENQUADRA COMO AGIL
+
 O primeiro aspecto relevante é a adequação do projeto ao uso de metodologias ágeis no desenvolvimento. A aplicação desse método é necessária para permitir que as partes interessadas (stakeholders) forneçam feedback constante no decorrer do projeto, ajustando o sistema conforme os objetivos definidos, e evitando desvios do escopo e das especificações. Com isso em mente, o desenvolvimento ágil facilita a realização de entregas contínuas, o que possibilita aos responsáveis pelos requisitos do sistema fazerem ajustes e melhorias ao longo do processo. Além de auxiliar os desenvolvedores na organização das entregas do projeto.
+
+
 
 Como segundo ponto, é fundamental que uma documentação detalhada do produto seja desenvolvida. Essa documentação servirá não apenas para a verificação e validação da solução, mas também como base para a implementação do sistema. Ela permitirá ao cliente acompanhar o planejamento do projeto antes da fase de implementação, sendo que, após esse estágio, o acompanhamento será baseado nas entregas contínuas do método ágil.
 
